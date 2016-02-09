@@ -1,0 +1,47 @@
+* 8ca3f3d Change fragments from 3 to 2
+* 6f587e2 fix delay bullets
+* 3884eab Add color
+* 3e42136 now using requestAnimationFrame
+* 4035769 frame interval was set wrong after game was paused
+* 25ede83 a couple missing ends with the ipad version
+* df03538 I can't spell 'screen' apparently :)
+| * 354dfdd Make ships able to spawn on coins
+| * 0c6daf1 Make it possible to collect coins
+| * a3c0ae4 Create helper functions
+| * 656b02e First pass at adding coins
+|/
+* b0678b1 Revert controls
+* f19cb1b Fix typo in space
+* 75928a9 Use space for movement and enter for shooting
+* ac83b72 mostly finished ipad version
+* 7ca4826 trying to get div touch controls to work
+* 3cb406e first pass at ipad controls
+* fe7993e now capturing down key so people don't accidently scroll the page
+* 343935f added license
+* 80f3bc7 increased canvas size
+* 7dc3de0 made the framerate counter dumb but more accurate
+* f077ea3 added pointInPolygon method for moz
+* 5cb7bed added reverseTransform method
+* a53b00a trying to get ff collision detection working
+* 1e47136 matrix really only needs to be a 2x3
+* 186453f small changes
+* c0b670e you get 200 Quatloos for shooting a big flying saucer
+* c808f10 bigalien now crosses and disappears
+* c588345 move lives out of Ship
+* 4bb6bf0 whole lot of refactoring
+* 5a54ab9 got the flying saucer working
+* f421d99 made ship rotate faster
+* 649ccbb collisions now work on dupes
+* 1c3ea2d no longer a border, duping rendering on the edges
+* 18b3f7c alien is shootin' and dodgin'
+* e2ecf58 start of alien invaders
+* 79aafad sound FX!
+* d900856 exhaust was showing on the extradudes
+* 3c6ade8 added score and extra dude display
+* c09083d added isClear method to Sprite, refactored
+* b83411e now have full game states, complete with levels
+* aa90200 added game states, start/spawn, pause display
+* 4be87fb make the framerate less jittery
+* 4e45b25 now we have a font
+* 380230e added collidesWith to the objects
+* fe11dbc now using isPointInPath
