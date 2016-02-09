@@ -39,5 +39,11 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+    The result is a unified path, where the files are merged into new ones with all the
+    features of both branches. It is represented in the diagram with the lines connecting
+    them in the points where their paths were separeted and united again. This way gives 
+    us information of the different commits that were made in each path. 
+    
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
