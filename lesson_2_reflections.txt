@@ -47,3 +47,8 @@ the diagram the way we do?
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+
+    Pros automatic: it saves time in the simple cases.
+    Pros manual: you ensure that the code merged it's the right one.
+    Cons automatic: it could merge wrongly some parts of the files.
+    Cons manual: it could be eternal.
